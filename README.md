@@ -1,2 +1,3 @@
 # javascript
-javascript
+
+javascript 기본
